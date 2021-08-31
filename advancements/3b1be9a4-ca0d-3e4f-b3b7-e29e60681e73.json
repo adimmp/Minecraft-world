@@ -1,0 +1,11 @@
+{
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:desert": "2021-08-26 04:15:38 +0000",
+      "minecraft:birch_forest": "2021-08-26 04:24:57 +0000",
+      "minecraft:plains": "2021-08-26 04:13:50 +0000"
+    },
+    "done": false
+  },
+  "DataVersion": 2730
+}
